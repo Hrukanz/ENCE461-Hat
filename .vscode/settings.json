@@ -1,0 +1,8 @@
+{
+    "windowsToolchainEnvCmd": "C:\\ence461\\ence461-path.bat",
+    "makeNumJobs": "2",
+    "files.associations": {
+        "radio.h": "c",
+        "piezo_beep.h": "c"
+    }
+}
